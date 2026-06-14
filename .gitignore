@@ -219,3 +219,4 @@ __marimo__/
 
 data/raw/*.csv
 .DS_Store
+data/processed/
